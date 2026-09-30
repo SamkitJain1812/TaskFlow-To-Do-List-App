@@ -1,11 +1,12 @@
 {
-  "name": "nodejs-sandbox",
+  "name": "todo-backend",
   "version": "1.0.0",
-  "description": "Node.js example server starter project",
+  "description": "MERN To-Do Application Backend API",
   "license": "MIT",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon index.js"
+    "start": "node index.js",
+    "dev": "nodemon index.js"
   },
   "keywords": [],
   "author": "Ives van Hoorne",
