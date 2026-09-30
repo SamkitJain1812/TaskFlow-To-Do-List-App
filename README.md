@@ -113,8 +113,8 @@ Mern-To-Do-List-App/
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/SamkitJain1812/Mern-To-Do-List-App.git
-cd Mern-To-Do-List-App
+git clone [https://github.com/SamkitJain1812/TaskFlow-To-Do-List-App](https://github.com/SamkitJain1812/TaskFlow-To-Do-List-App).git
+cd TaskFlow-To-Do-List-App
 ```
 
 ---
